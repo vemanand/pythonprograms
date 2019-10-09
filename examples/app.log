@@ -1,0 +1,8 @@
+CRITICAL:root:Person name =  Keith Bernard 
+ERROR:root:Couldn't find '5am club book'
+WARNING:root:Feature is deprecated
+INFO:root:Opening file 'data.csv', mode = 'r'
+CRITICAL:root:Person name =  James Bond 
+ERROR:root:Couldn't find 'iPhone'
+WARNING:root:Feature is deprecated
+INFO:root:Opening file 'dataset.csv', mode = 'r'
